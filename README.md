@@ -6,3 +6,9 @@ This project is a Movie Recommendation System built using Python and Machine Lea
 - Uses pickle for model persistence.
 - Provides personalized movie suggestions.
 - Easy to run and extend for new datasets.
+
+### Language used
+- Python
+
+### Technology used
+- Machine Learning
